@@ -1,0 +1,8 @@
+Date,Temperature,Windspeed,Event
+10/1/2024,32,6,rain
+10/2/2024,-9999,7,sunny
+10/3/2024,28,-9999,snow
+10/4/2024,-9999,7,no event
+10/5/2024,32,-9999,rain
+10/6/2024,31,2,sunny
+10/6/2024,34,5,no event
